@@ -1,4 +1,5 @@
 # TSF-Tasks-for-Internship
-#Task 2 is done
-It was on simple Linear Regression Machine Learning 
-To predict score based upon the number of hours of study
+All the tasks are completed successfully within time.
+Great experience it was.
+Done projects on Linear Regression, KNN, Decision Tree Classifier and a great task on Business Analytics.
+Overall beautiful experience.
